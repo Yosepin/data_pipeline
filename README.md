@@ -1,2 +1,2 @@
-# data_pipeline
+# data_pipeline and scheduling
 for training cap
